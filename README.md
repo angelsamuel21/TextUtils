@@ -1,4 +1,4 @@
-TextUtils
+# TextUtils
 By Angel Samuel
 Tech & Finance Enthusiast | B.Tech Computer Science Engineering Student at Invertis University | Passionate about Web Development & AI/ML
 
