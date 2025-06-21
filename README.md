@@ -1,33 +1,34 @@
-# TextUtils
-By Angel Samuel
-Tech & Finance Enthusiast | B.Tech Computer Science Engineering Student at Invertis University | Passionate about Web Development & AI/ML
+# TextUtils  
+**By Angel Samuel**  
+*Tech & Finance Enthusiast | B.Tech CSE Student at Invertis University*  
+*Passionate about Web Development & AI/ML*
 
-TextUtils is a simple yet powerful text manipulation tool designed to help users analyze and modify text quickly and efficiently. Whether you're editing content, counting characters and words, or converting text formats, TextUtils provides an intuitive interface with a variety of useful features.
+---
 
-🚀 Features
-Word Count: Instantly count the number of words in your text.
+**TextUtils** is a simple yet powerful text manipulation tool designed to help users analyze and modify text quickly and efficiently. Whether you're editing content, counting characters and words, or converting text formats, TextUtils offers an intuitive interface packed with useful features.
 
-Character Count: Get the exact number of characters, with or without spaces.
+---
 
-Remove Extra Spaces: Clean up unnecessary whitespace from your input.
+## 🚀 Features
 
-Convert Text Case: Easily transform text to uppercase, lowercase, or capitalize the first letter of each word.
+- **Word Count** – Instantly count the number of words in your text.  
+- **Character Count** – Get the exact number of characters, with or without spaces.  
+- **Remove Extra Spaces** – Clean up unnecessary whitespace from your input.  
+- **Convert Text Case** – Easily transform text to UPPERCASE, lowercase, or Capitalize Each Word.  
+- **Copy to Clipboard** – Copy the modified text with a single click.  
+- **Text Preview** – View live changes as you modify the text.  
+- **Dark/Light Mode** – Switch between light and dark themes for a better reading and editing experience.
 
-Copy to Clipboard: Copy the modified text with a single click.
+---
 
-Text Preview: View your text output in real time as you make changes.
+## 💡 Use Cases
 
-Dark/Light Mode: Toggle between light and dark themes for better user experience.
+- Fast and efficient **content editing and formatting**  
+- Checking **word and character count** for assignments, reports, or social media  
+- **Preprocessing text** for programming or data analysis tasks  
+- Cleaning up **text copied from various sources**  
 
-💡 Use Cases
-Content editing and formatting
+---
 
-Word and character count for assignments or social media
-
-Text preprocessing for programming or data analysis
-
-Cleaning up text copied from different sources
-
-Made with ❤️ by Angel Samuel
-“Empowering text, one line at a time.”
-
+**Made with ❤️ by Angel Samuel**  
+*"Empowering text, one line at a time."*
